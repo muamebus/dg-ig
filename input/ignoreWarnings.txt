@@ -1,6 +1,5 @@
+
 == Suppressed Messages ==
 
-# Hier könnt ihr Warnungen aus dem QA-Report unterdrücken.
-# Kopiert dazu den Text der Warnung exakt in eine eigene Zeile.
-# Schreibt über jede unterdrückte Warnung einen Kommentar mit dem Grund.
-# Errors lassen sich nicht unterdrücken, die müsst ihr beheben.
+# CH Term 3.3.0 ist im Aufgabenblatt vorgegeben und wird deshalb beibehalten.
+The ImplementationGuide uses package ch.fhir.ig.ch-term#3.3.0 released on 2025-12-15, but the most recent appropriate version is 3.4.0. This reference is getting old and the more recent version should be considered
