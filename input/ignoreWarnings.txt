@@ -1,26 +1,6 @@
+== Suppressed Messages ==
 
-# Dokumentation der 13 Warnings aus dem QA-Report
-
-# Warning 1: CH Term 3.3.0 ist veraltet.
-# Begründung: Version 3.3.0 ist im Aufgabenblatt vorgegeben.
-
-# Warnings 2-9: Acht HTML-Validierungswarnungen in output/searchform.html.
-# Begründung: Die Meldungen betreffen die automatisch generierte
-# Suchseite und nicht die selbst erstellten FSH-Dateien.
-# Betroffen sind die Zeilen 34, 79, 80, 109, 111, 112, 113 und 115.
-
-# Warning 10: ip-statements.xhtml wird nicht verwendet.
-# Begründung: Das Fragment stammt aus der IG-Vorlage
-# und wird fuer diesen Use Case nicht benoetigt.
-
-# Warning 11: cross-version-analysis.xhtml wird nicht verwendet.
-# Begründung: Das Fragment stammt aus der IG-Vorlage
-# und wird fuer diesen Use Case nicht benoetigt.
-
-# Warning 12: dependency-table.xhtml wird nicht verwendet.
-# Begründung: Das Fragment stammt aus der IG-Vorlage
-# und wird fuer diesen Use Case nicht benoetigt.
-
-# Warning 13: globals-table.xhtml wird nicht verwendet.
-# Begründung: Das Fragment stammt aus der IG-Vorlage
-# und wird fuer diesen Use Case nicht benoetigt.
+# Hier könnt ihr Warnungen aus dem QA-Report unterdrücken.
+# Kopiert dazu den Text der Warnung exakt in eine eigene Zeile.
+# Schreibt über jede unterdrückte Warnung einen Kommentar mit dem Grund.
+# Errors lassen sich nicht unterdrücken, die müsst ihr beheben.
